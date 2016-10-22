@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Git_Test {
     class Program {
         static void Main(string[] args) {
+            Console.WriteLine("Test-001");
 
         }
     }
