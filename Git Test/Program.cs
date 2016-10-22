@@ -11,6 +11,8 @@ namespace Git_Test {
             Console.WriteLine("Test-002");
             Console.WriteLine("Test-003");
 
+            var c1 = new Class_001();
+    
             var c2 = new Class_002();
 
         }
